@@ -29,7 +29,7 @@ The purpose of this assignment is to develop foundational skills in:
 - Publishing simple web pages
 
 ## 📎Live Demo
-(Insert your GitHub Pages link here after deployment)
+(https://github.com/JoshuaYaffa/Web-Design-DCOMP204-Assignment-1-BSEM1201-905004075-sem4-.git)
 
 ##  Year
 2026
